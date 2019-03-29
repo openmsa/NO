@@ -1,4 +1,4 @@
-Network Automation Layer (NAL)
+Network Orchestrator (NO)
 ==============================
 
 Provide automation for:
